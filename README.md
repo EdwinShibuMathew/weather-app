@@ -69,6 +69,7 @@ weather-app/
 3. **Access the app**
    - Navigate to `http://localhost:8000` (if using a server)
    - Or directly open the `index.html` file in your browser
+   - Or visit https://github.com/EdwinShibuMathew/weather-app/deployments/github-pages
 
 ## 🎮 How to Use
 
